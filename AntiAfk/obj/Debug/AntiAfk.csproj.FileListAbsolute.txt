@@ -1,9 +1,0 @@
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe.config
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.pdb
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.csprojResolveAssemblyReference.cache
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.Properties.Resources.resources
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.csproj.GenerateResource.Cache
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.exe
-c:\users\gebruiker\documents\visual studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.pdb
-C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\AntiAfk\AntiAfk\obj\Debug\AntiAfk.Ferib.resources
