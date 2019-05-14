@@ -46,3 +46,5 @@ So we know that RAX holds the start value of the Thread, so we patch the bytes t
 I have made a short video to show some stuff about the LastHardwareAction.
 https://www.youtube.com/watch?v=o8J2HT-urkU&t=5s
 
+# Donate
+BTC: 1FeribRHR98Crux3DEZPXzjLBpfmHTHKqJ
