@@ -27,7 +27,7 @@ Please note that we need a Bypass in order to make use of CreateRemoteThread
 
 # The Bypass
 Blizzard will add a "0xC3" or "ret" instruction at the start of our CodeCave. No big deal if we wan't to use all code of our cave.
-So a small work around is to start the Thread at CodeCabe + 0x01.
+So a small work around is to start the Thread at CodeCave + 0x01.
 
 in order to do this, we go to KERNEL32.BaseDumpAppcompatCacheWorker + 0x1E0, and see:
 ```asm
